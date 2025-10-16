@@ -1,0 +1,5 @@
+MEX Test Document
+==================================================
+
+This is a sample text file for testing MEX metadata extraction.
+Created: 2025-10-17T00:09:24.114036

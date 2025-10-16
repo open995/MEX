@@ -1,0 +1,13 @@
+{
+  "format": "MEX Test Data",
+  "version": "1.0",
+  "created": "2025-10-17T00:09:24.132138",
+  "author": "MEX Test Suite",
+  "data": {
+    "key1": "value1",
+    "key2": "value2",
+    "nested": {
+      "item": "test"
+    }
+  }
+}
